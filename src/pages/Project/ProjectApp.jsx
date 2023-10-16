@@ -76,7 +76,7 @@ function ProjectApp() {
                 <section className="projects__grid apps">
                     <div className="projects__item">
                         <a onClick={() => cambiarEstadoModal18(!estadoModal18)}>
-                            <img src={proyectsImgApp(`./proyecto-app-18.png`)} alt="" className="projects__img" />
+                            <img src={proyectsImgApp(`../../img/proyecto-app-18.png`)} alt="" className="projects__img" />
                         </a>
                     </div>
                     <div className="projects__item">
